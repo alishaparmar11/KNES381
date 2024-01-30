@@ -11,4 +11,7 @@ Content Cell  | Content Cell
 2.  I dont like to eat
     1. Coleslaw
     2. Sticky Toffee Pudding
-  
+  - [ ] I need to study FNCE
+  - [ ] I need to study KNES 397
+  - [ ] Go to Gym
+  - [x] Eat food
