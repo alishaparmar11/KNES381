@@ -27,4 +27,4 @@ Header 1                         |    Header 2
 ---------------------------------|-----------------------------------
 Content 1                        | Content 2
 ![picture alt](http://via.placeholder.com/200x150 "Title is optional") 
-![picture_alt].(strawberry.pdf)
+![picture_alt].(
