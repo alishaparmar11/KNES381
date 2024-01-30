@@ -15,5 +15,3 @@ Content Cell  | Content Cell
   - [ ] I need to study KNES 397
   - [ ] Go to Gym
   - [x] Eat food
-![picture alt](https://www.google.com/search?q=strawberry&sca_esv=8212b838d9203bd8&tbm=isch&source=hp&biw=1872&bih=966&ei=2ES5ZY6bM83l0PEP-cSUsAo&iflsig=ANes7DEAAAAAZblS6K_cb0WwRr1OnBOBKKfruUoTdeSt&ved=0ahUKEwiO55bW44WEAxXNMjQIHXkiBaYQ4dUDCAc&uact=5&oq=strawberry&gs_lp=EgNpbWciCnN0cmF3YmVycnkyCBAAGIAEGLEDMggQABiABBixAzIIEAAYgAQYsQMyCBAAGIAEGLEDMggQABiABBixAzIFEAAYgAQyCBAAGIAEGLEDMggQABiABBixAzIIEAAYgAQYsQMyBRAAGIAESNsMUABYrAtwAHgAkAEAmAFAoAHcBKoBAjEwuAEDyAEA-AEBigILZ3dzLXdpei1pbWfCAg4QABiABBiKBRixAxiDAcICCxAAGIAEGLEDGIMB&sclient=img#imgrc=niNez88OzWHDgM "Strawberry")
-
