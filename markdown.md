@@ -62,4 +62,4 @@ img src= (https://th.bing.com/th/id/OIP.3QDWuvwi6bKF3kNNNVWb3gHaEo?w=302&h=189&c
 <img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
 A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.
 </p>
-<h1 style="color:Tomato;">Hello World</h1>
+<h1 style="color:red;">Hello World</h1>
