@@ -29,3 +29,15 @@ Content 1                        | Content 2
 ![picture alt](http://via.placeholder.com/200x150 "Title is optional") 
 ![picture_alt](https://th.bing.com/th/id/OIP.3QDWuvwi6bKF3kNNNVWb3gHaEo?w=302&h=189&c=7&r=0&o=5&pid=1.7)
 img src= (https://th.bing.com/th/id/OIP.3QDWuvwi6bKF3kNNNVWb3gHaEo?w=302&h=189&c=7&r=0&o=5&pid=1.7) width="48">
+
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
