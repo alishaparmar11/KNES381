@@ -58,26 +58,8 @@ img src= (https://th.bing.com/th/id/OIP.3QDWuvwi6bKF3kNNNVWb3gHaEo?w=302&h=189&c
 <p>This is another paragraph.</p>
 <a href="https://www.w3schools.com">This is a link</a>
 
-![picture_alt](https://th.bing.com/th/id/OIP.3QDWuvwi6bKF3kNNNVWb3gHaEo?w=302&h=189&c=7&r=0&o=5&pid=1.7)
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>Floating Images</h2>
-<p><strong>Float the image to the right:</strong></p>
-
 <p>
 <img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
 A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.
 </p>
-
-<p><strong>Float the image to the left:</strong></p>
-<p>
-<img src="smiley.gif" alt="Smiley face" style="float:left;width:42px;height:42px;">
-A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.  
-</p>
-
-</body>
-</html>
 
